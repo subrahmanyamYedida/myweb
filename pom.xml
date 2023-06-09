@@ -32,12 +32,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://3.80.107.95:8081/repository/subbu_snapshot/</url>
+		    <url>http://54.226.20.126:8081/repository/sample_snapshot/</url>
 		 </snapshotRepository>
 
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://3.80.107.95:8081/repository/subbu_release/</url>
+		    <url>http://54.226.20.126:8081/repository/sample-releases/</url>
 		</repository>
   	</distributionManagement>
 	
